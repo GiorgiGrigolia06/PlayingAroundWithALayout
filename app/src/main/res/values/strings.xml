@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework4-TBC-IT-Academy</string>
+    <string name="icon_image_cont_descr">Yellow User Icon</string>
+    <string name="blue_box_cont_descr">Blue Box</string>
+    <string name="hello">Hello!</string>
+    <string name="lets_introduce">Let\'s introduce</string>
+    <string name="full_name_hint">Your full name</string>
+    <string name="username_hint">Username</string>
+    <string name="next_button">Next</string>
+</resources>
