@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <color name="app_background">#1F2E35</color>
+    <color name="hello_text_color">#FFFFFF</color>
+    <color name="lets_introduce_text_color">#96A7AF</color>
+    <color name="input_field_hint_color">#96A7AF</color>
+    <color name="box_stroke_color">#FFFFFF</color>
 </resources>

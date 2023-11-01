@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#1F2E35"
+    android:background="@color/app_background"
     android:padding="@dimen/main_layout_padding">
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -33,7 +33,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/hello_margin_top"
             android:text="@string/hello"
-            android:textColor="#FFFFFF"
+            android:textColor="@color/hello_text_color"
             android:textSize="@dimen/hello_font_size"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
@@ -46,11 +46,10 @@
             android:layout_marginTop="@dimen/lets_introduce_margin_top"
             android:layout_marginBottom="@dimen/lets_introduce_bottom_margin"
             android:text="@string/lets_introduce"
-            android:textColor="#96A7AF"
+            android:textColor="@color/lets_introduce_text_color"
             android:textSize="@dimen/lets_introduce_font_size"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/hello" />
-
 
         <LinearLayout
             android:id="@+id/linear_layout_1"
@@ -76,9 +75,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="@string/full_name_hint"
-                android:textColorHint="#96A7AF"
+                android:textColorHint="@color/input_field_hint_color"
                 app:boxBackgroundMode="filled"
-                app:boxStrokeColor="#ffffff"
+                app:boxStrokeColor="@color/box_stroke_color"
                 app:boxStrokeWidth="@dimen/input_field_box_stroke">
 
                 <com.google.android.material.textfield.TextInputEditText
@@ -115,9 +114,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="@string/username_hint"
-                android:textColorHint="#96A7AF"
+                android:textColorHint="@color/input_field_hint_color"
                 app:boxBackgroundMode="filled"
-                app:boxStrokeColor="#ffffff"
+                app:boxStrokeColor="@color/box_stroke_color"
                 app:boxStrokeWidth="@dimen/input_field_box_stroke">
 
                 <com.google.android.material.textfield.TextInputEditText
