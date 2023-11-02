@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="main_layout_padding">32dp</dimen>
-    <dimen name="green_box_margin_bottom">28dp</dimen>
     <dimen name="green_box_elevation">4dp</dimen>
     <dimen name="hello_font_size">42sp</dimen>
     <dimen name="lets_introduce_bottom_margin">37sp</dimen>
     <dimen name="lets_introduce_font_size">24sp</dimen>
-    <dimen name="input_field_bottom_margin">38dp</dimen>
     <dimen name="input_field_icon_end_margin">18dp</dimen>
     <dimen name="input_field_font_size">18sp</dimen>
-    <dimen name="input_field_bottom_spacer_height">64dp</dimen>
     <dimen name="button_spacer_width">12dp</dimen>
-
     <dimen name="hello_margin_top">28dp</dimen>
     <dimen name="lets_introduce_margin_top">9dp</dimen>
     <dimen name="full_name_layout_margin_top">38dp</dimen>
     <dimen name="username_layout_margin_top">38dp</dimen>
     <dimen name="input_field_box_stroke">1dp</dimen>
+    <dimen name="buttons_margin_top">64dp</dimen>
+    <dimen name="next_button_text_font_size">18sp</dimen>
+    <dimen name="next_button_padding_vertical">21dp</dimen>
+    <dimen name="next_button_padding_horizontal">91dp</dimen>
+    <dimen name="back_button_padding">21dp</dimen>
+    <dimen name="next_button_icon_padding">12dp</dimen>
+    <dimen name="green_box_top_margin">140dp</dimen>
 </resources>

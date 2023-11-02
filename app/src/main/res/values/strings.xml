@@ -7,4 +7,5 @@
     <string name="full_name_hint">Your full name</string>
     <string name="username_hint">Username</string>
     <string name="next_button">Next</string>
+    <string name="back_button_cont_descr">Go Back</string>
 </resources>

@@ -5,4 +5,9 @@
     <color name="lets_introduce_text_color">#96A7AF</color>
     <color name="input_field_hint_color">#96A7AF</color>
     <color name="box_stroke_color">#FFFFFF</color>
+    <color name="next_arrow_icon_tint">#FFFFFF</color>
+    <color name="next_button_background_tint">#40DF9F</color>
+    <color name="back_button_background_tint">#286053</color>
+    <color name="next_button_text_color">#FFFFFF</color>
+    <color name="back_button_icon_tint">#FFFFFF</color>
 </resources>
