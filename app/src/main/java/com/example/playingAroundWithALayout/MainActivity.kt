@@ -1,4 +1,4 @@
-package com.example.homework4_tbc_it_academy
+package com.example.playingAroundWithALayout
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

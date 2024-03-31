@@ -1,9 +1,9 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Homework4TBCITAcademy" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.playingAroundWithALayout" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.Homework4TBCITAcademy" parent="Base.Theme.Homework4TBCITAcademy" />
+    <style name="Theme.playingAroundWithALayout" parent="Base.Theme.playingAroundWithALayout" />
 </resources>

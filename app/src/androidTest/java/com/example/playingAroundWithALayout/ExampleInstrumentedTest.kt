@@ -1,4 +1,4 @@
-package com.example.homework4_tbc_it_academy
+package com.example.playingAroundWithALayout
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.homework4_tbc_it_academy", appContext.packageName)
+        assertEquals("com.example.playingAroundWithALayout", appContext.packageName)
     }
 }

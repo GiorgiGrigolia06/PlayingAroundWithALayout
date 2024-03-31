@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Homework4-TBC-IT-Academy"
+rootProject.name = "playingAroundWithALayout"
 include(":app")
  

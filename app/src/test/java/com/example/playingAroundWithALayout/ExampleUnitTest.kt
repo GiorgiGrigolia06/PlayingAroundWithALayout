@@ -1,4 +1,4 @@
-package com.example.homework4_tbc_it_academy
+package com.example.playingAroundWithALayout
 
 import org.junit.Test
 
